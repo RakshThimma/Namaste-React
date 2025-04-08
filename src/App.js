@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import usericon from "../img/user.png";
 import Header from "./components/Header";
 import Body from "./components/Body";
 import About from "./components/About";

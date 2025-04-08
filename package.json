@@ -8,6 +8,9 @@
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
+  "engines": {
+  "node": "18.x"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RakshithaThimma/Namasate-React.git"
@@ -30,7 +33,6 @@
     "jest-environment-jsdom": "^29.7.0",
     "parcel": "^2.13.3",
     "postcss": "^8.5.3",
-    "process": "^0.11.10",
     "tailwindcss": "^3.4.17"
   },
   "dependencies": {
@@ -40,6 +42,6 @@
     "react-dom": "^19.0.0",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.3.0"
-    
+
   }
 }

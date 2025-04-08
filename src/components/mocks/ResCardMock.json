@@ -1,0 +1,76 @@
+{"info":{
+    "id": "80919",
+    "name": "Dindigul Thalappakatti",
+    "cloudinaryImageId": "vn2m8nb0j0vrpbxskhrg",
+    "locality": "Bypass Road",
+    "areaName": "SS Colony",
+    "costForTwo": "₹300 for two",
+    "cuisines": [
+        "Biryani",
+        "Barbecue",
+        "South Indian",
+        "Chinese"
+    ],
+    "avgRating": 4.3,
+    "parentId": "332",
+    "avgRatingString": "4.3",
+    "totalRatingsString": "10K+",
+    "sla": {
+        "deliveryTime": 48,
+        "lastMileTravel": 3.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "45-50 mins",
+        "lastMileTravelString": "3.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2025-04-08 01:00:00",
+        "opened": true
+    },
+    "badges": {
+        "imageBadges": [
+            {
+                "imageId": "Rxawards/_CATEGORY-Biryani.png",
+                "description": "Delivery!"
+            }
+        ]
+    },
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {
+                "badgeObject": [
+                    {
+                        "attributes": {
+                            "description": "Delivery!",
+                            "imageId": "Rxawards/_CATEGORY-Biryani.png"
+                        }
+                    }
+                ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹349"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+        "aggregatedRating": {
+            "rating": "--"
+        }
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+}}
